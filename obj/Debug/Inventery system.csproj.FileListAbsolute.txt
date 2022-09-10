@@ -1,0 +1,13 @@
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\bin\Debug\Assign_2_SCD_W1_S2019065007.exe.config
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\bin\Debug\Assign_2_SCD_W1_S2019065007.exe
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\bin\Debug\Assign_2_SCD_W1_S2019065007.pdb
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Inventery system.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Inventery system.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Assign_2_SCD_W1_S2019065007.Login.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Assign_2_SCD_W1_S2019065007.Form_Inventory.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Assign_2_SCD_W1_S2019065007.item.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Assign_2_SCD_W1_S2019065007.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Inventery system.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Inventery system.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Assign_2_SCD_W1_S2019065007.exe
+C:\Users\Ahmad\Desktop\SCD\Assignment # 2 (A)\obj\Debug\Assign_2_SCD_W1_S2019065007.pdb
